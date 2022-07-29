@@ -1,4 +1,4 @@
-# Hi, there I am Vicky Keshri
+# Hi there, I am Vicky Keshri
 
 In this project I learned about css with background image with color overlay along with positions of images. It took me 2 hours to complete this
 
